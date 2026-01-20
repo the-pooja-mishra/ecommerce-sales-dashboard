@@ -17,7 +17,6 @@ This project demonstrates the complete analytics workflow:
 - Power BI – Data visualization & dashboarding
 - GitHub – Version control & project documentation
 
-
 ## 📁 Project Folder Structure
 
 ecommerce-sales-dashboard/
@@ -40,6 +39,7 @@ ecommerce-sales-dashboard/
 ├── ecommerce-sales-dashboard.pbix
 ├── ecommerce-sales-dashboard screenshot.png
 └── README.md
+
 
 # 🔄 Data Pipeline
 
@@ -91,7 +91,7 @@ Built an interactive dashboard featuring:
 - Business-focused dashboard design
 - GitHub project organization & documentation
 
-📬 Contact
+# 📬 Contact
 
 Pooja Mishra
 📌 Aspiring Data Analyst
