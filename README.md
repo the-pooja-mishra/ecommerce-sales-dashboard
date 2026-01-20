@@ -1,4 +1,4 @@
-##📊 E-commerce Sales Performance Dashboard
+## 📊 E-commerce Sales Performance Dashboard
 
 An end-to-end data analytics project that simulates real-world e-commerce data, processes it using SQL, and visualizes business insights through an interactive Power BI dashboard.
 
@@ -10,14 +10,16 @@ This project demonstrates the complete analytics workflow:
 - Interactive reporting and KPI tracking using Power BI
 - The dashboard provides a bird’s-eye view of sales performance, customer behavior, and product trends.
 
-#🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 - Python – Data generation (Faker)
 - SQL (MySQL) – Data modeling & transformations
 - Power BI – Data visualization & dashboarding
 - GitHub – Version control & project documentation
 
-# 📁 Project Folder Structure
+
+## 📁 Project Folder Structure
+
 ecommerce-sales-dashboard/
 │
 ├── python/
@@ -39,8 +41,7 @@ ecommerce-sales-dashboard/
 ├── ecommerce-sales-dashboard screenshot.png
 └── README.md
 
-
-#🔄 Data Pipeline
+# 🔄 Data Pipeline
 
 1️⃣ Data Generation (Python)
 Used Faker to generate realistic e-commerce data:
@@ -75,7 +76,7 @@ Built an interactive dashboard featuring:
 
 ![Dashboard Preview](https://github.com/the-pooja-mishra/ecommerce-sales-dashboard/blob/main/ecommerce-sales-dashboard%20screenshot.png)
 
-#📌 Key Insights
+# 📌 Key Insights
 
 - Identified top-performing products and categories
 - Analyzed monthly sales trends
