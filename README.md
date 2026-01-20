@@ -40,7 +40,6 @@ ecommerce-sales-dashboard/
 ├── ecommerce-sales-dashboard screenshot.png
 └── README.md
 
-
 # 🔄 Data Pipeline
 
 1️⃣ Data Generation (Python)
