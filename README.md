@@ -4,7 +4,7 @@ An end-to-end data analytics project that simulates real-world e-commerce data, 
 
 🚀 Project Overview
 
-This project demonstrates the complete analytics workflow:
+This project demonstrates the complete analytics workflow: 
 - Synthetic data generation using Python (Faker)
 - Data modeling & transformations using SQL
 - Interactive reporting and KPI tracking using Power BI
