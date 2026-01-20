@@ -24,7 +24,8 @@ Power BI – Data visualization & dashboarding
 
 GitHub – Version control & project documentation
 
-📁 Project Folder Structure
+## 📁 Project Folder Structure
+
 
 ecommerce-sales-dashboard/
 │
