@@ -18,7 +18,7 @@ This project demonstrates the complete analytics workflow:
 - GitHub – Version control & project documentation
 
 ## 📁 Project Folder Structure
-
+```bash
 ecommerce-sales-dashboard/
 │
 ├── python/
@@ -39,7 +39,7 @@ ecommerce-sales-dashboard/
 ├── ecommerce-sales-dashboard.pbix
 ├── ecommerce-sales-dashboard screenshot.png
 └── README.md
-
+```
 # 🔄 Data Pipeline
 
 1️⃣ Data Generation (Python)
@@ -92,9 +92,10 @@ Built an interactive dashboard featuring:
 
 # 📬 Contact
 
-Pooja Mishra
-📌 Aspiring Data Analyst
-🔗 LinkedIn: www.linkedin.com/in/pooja-mishra-7b27191a3
+Pooja Mishra 🎓  
+Aspiring Data Analyst  
+🔗 LinkedIn: https://www.linkedin.com/in/pooja-mishra-7b27191a3
+
 
 ⭐ If you found this project useful, feel free to star the repository!
 
